@@ -1,4 +1,4 @@
-# b1gcheaters@github
+# b1gcheats@issues
 
 On this repo, you can create a issue and explain problems you found using [b1gcheats.club](https://b1gcheats.club/)
 
